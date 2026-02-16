@@ -1,6 +1,6 @@
-# Crafted by Juanita Website Mock-up
+# Grape Soda Ranch Crafts Website Mock-up
 
-Static website mock-up for **Crafted by Juanita** with a warm, welcoming visual style and three pages:
+Static website mock-up for **Grape Soda Ranch Crafts** with a warm, welcoming visual style and three pages:
 
 - Home (`/index.html`)
 - About Us (`/about.html`)
